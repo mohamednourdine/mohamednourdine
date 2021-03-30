@@ -84,6 +84,12 @@ I learned a lot from the open-source community and I love how collaboration and 
       </a>
       <br>NodeJS
     </td>
+    <td align="center" width="96">
+      <a href="#mohamednourdine">
+        <img src="./icons/typescript-icon.svg" width="45" height="45" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
     <tr>
     <td align="center" width="96">
       <a href="#mohamednourdine">
@@ -123,23 +129,29 @@ I learned a lot from the open-source community and I love how collaboration and 
     </td>
     <td align="center" width="96">
       <a href="#mohamednourdine">
-        <img src="./icons/typescript-icon.svg" width="45" height="45" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#mohamednourdine">
         <img src="./icons/vue.svg" width="45" height="45" alt="VueJS" />
       </a>
       <br>VueJS
     </td>
-    <tr>
-    <tr>
     <td align="center" width="96">
       <a href="#mohamednourdine">
         <img src="./icons/docker-icon.svg" width="45" height="45" alt="Docker" />
       </a>
       <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#mohamednourdine">
+        <img src="./icons/sass.svg" width="45" height="45" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>
+    <tr>
+    <tr>
+    <td align="center" width="96">
+      <a href="#mohamednourdine">
+        <img src="./icons/redis.svg" width="45" height="45" alt="Redis" />
+      </a>
+      <br>Redis
     </td>
     <td align="center" width="96">
       <a href="#mohamednourdine">
@@ -161,21 +173,9 @@ I learned a lot from the open-source community and I love how collaboration and 
     </td>
     <td align="center" width="96">
       <a href="#mohamednourdine">
-        <img src="./icons/redis.svg" width="45" height="45" alt="Redis" />
-      </a>
-      <br>Redis
-    </td>
-    <td align="center" width="96">
-      <a href="#mohamednourdine">
         <img src="./icons/oracle.svg" width="45" height="45" alt="Oracle" />
       </a>
       <br>Oracle
-    </td>
-    <td align="center" width="96">
-      <a href="#mohamednourdine">
-        <img src="./icons/sass.svg" width="45" height="45" alt="Sass" />
-      </a>
-      <br>Sass
     </td>
     </tr>
   
