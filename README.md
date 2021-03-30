@@ -15,9 +15,8 @@ I learned a lot from the open-source community and I love how collaboration and 
 
 
 
-![Profile views](https://gpvc.arturio.dev/mohamednourdine)[![Gmail Badge](https://img.shields.io/badge/-mohamednjikam25@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mohamednjikam25@gmail.com)](mohamednjikam25@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-mohamednourdine-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-nourdine-0970b7122/)](https://www.linkedin.com/in/mohamed-nourdine-0970b7122/) [![Github Badge](https://img.shields.io/badge/mohamednourdine-grey?style=flat&logo=github&logoColor=white&link=https://github.com/mohamednourdine/)](https://github.com/mohamednourdine/) 
-[![Twitter Badge](https://img.shields.io/badge/-nourdinetw-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/nourdinetw/)](https://www.twitter.com/nourdinetw/) 
-
+![Profile views](https://gpvc.arturio.dev/mohamednourdine) [![Linkedin Badge](https://img.shields.io/badge/-mohamednourdine-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-nourdine-0970b7122/)](https://www.linkedin.com/in/mohamed-nourdine-0970b7122/) [![Github Badge](https://img.shields.io/badge/mohamednourdine-grey?style=flat&logo=github&logoColor=white&link=https://github.com/mohamednourdine/)](https://github.com/mohamednourdine/) 
+[![Twitter Badge](https://img.shields.io/badge/-nourdinetw-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/nourdinetw/)](https://www.twitter.com/nourdinetw/) [![Gmail Badge](https://img.shields.io/badge/-mohamednjikam25@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohamednjikam25@gmail.com)](mailto:mohamednjikam25@gmail.com)
 
 <a href="#mohamednourdine-title">
   <img src="https://github-readme-stats.vercel.app/api?username=mohamednourdine&show_icons=true&count_private=true&include_all_commits=true" alt="mohamednourdine" align="right" />
