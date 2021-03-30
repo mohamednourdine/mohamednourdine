@@ -23,7 +23,6 @@ I learned a lot from the open-source community and I love how collaboration and 
 </a>
 
 - :office: &nbsp;I'm currently working at **[Fembak Software]**
-- :seedling: &nbsp;I’m currently learning **React**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
