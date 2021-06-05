@@ -1,6 +1,6 @@
 <h1 align="left" id="mohamednourdine-title">:wave: Hello there! I'm Mohamed Nourdine</h1>
 
-><h3 align="left">I am a passionate self-taught Full Stack Web and Mobile developer and a freelance software engineer from Cameroon</h3>
+><h3 align="left">I am a passionate Full Stack Web and Mobile developer and a freelance software engineer from Cameroon</h3>
 
 <br>
 
