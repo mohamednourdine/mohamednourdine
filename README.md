@@ -144,10 +144,6 @@ My appreciation for the open-source community has provided me with valuable lear
       </a>
       <br>Bootstrap
     </td>
-    
-    </tr>
-  
-  </tr>
   
 </table>
 
