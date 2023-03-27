@@ -158,7 +158,6 @@ My appreciation for the open-source community has provided me with valuable lear
   
 </table>
 
-
 <!-- links -->
 
 [issues page]: https://github.com/mohamednourdine/mohamednourdine/issues "mohamednourdine/issues"
