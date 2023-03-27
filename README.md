@@ -122,14 +122,6 @@ My appreciation for the open-source community has provided me with valuable lear
     </td>
     <td align="center" width="96">
       <a href="#mohamednourdine">
-        <img src="./icons/sass.svg" width="45" height="45" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
-    <tr>
-    <tr>
-    <td align="center" width="96">
-      <a href="#mohamednourdine">
         <img src="./icons/redis.svg" width="45" height="45" alt="Redis" />
       </a>
       <br>Redis
@@ -152,6 +144,7 @@ My appreciation for the open-source community has provided me with valuable lear
       </a>
       <br>Bootstrap
     </td>
+    
     </tr>
   
   </tr>
