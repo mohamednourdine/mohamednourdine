@@ -82,7 +82,7 @@ My appreciation for the open-source community has provided me with valuable lear
       </a>
       <br>TypeScript
     </td>
-    <tr>
+   
     <td align="center" width="96">
       <a href="#mohamednourdine">
         <img src="./icons/flutter.svg" width="45" height="45" alt="Flutter" />
