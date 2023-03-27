@@ -1,13 +1,13 @@
 <h1 align="left" id="mohamednourdine-title">:wave: Hello there! I'm Mohamed Nourdine</h1>
 
-><h3 align="left">I am a passionate Full Stack Web and Mobile developer and a freelance software engineer from Cameroon</h3>
+><h3 align="left">I am a passionate Full Stack Web developer👨🏽‍💻</h3>
 
 <br>
 
-<font size="2">I have taken a challenging and high performance oriented role in the field of software engineering and implemented the expertise and experience gained in this field to develop complex projects with efficiency and quality for various companies.
+<font size="2">I have had the chance to occupy results-driven positions within the software engineering industry, utilizing my expertise and experience to efficiently develop intricate projects for a variety of companies.
 <br>
 <br>
-I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+My appreciation for the open-source community has provided me with valuable learning opportunities. I am fascinated by the collaborative and knowledge-sharing nature of open-source initiatives.
 <br>
 <br>
 </font>
@@ -58,12 +58,6 @@ I learned a lot from the open-source community and I love how collaboration and 
       </a>
       <br>Lumen
     </td>
-    <td align="center" width="96">
-      <a href="#mohamednourdine">
-        <img src="./icons/angular-icon.svg" width="45" height="45" alt="c-sharp" />
-      </a>
-      <br>C# sharp
-    </td>
      <td align="center" width="96">
       <a href="#mohamednourdine">
         <img src="./icons/python.svg" width="45" height="45" alt="Python" />
@@ -89,18 +83,6 @@ I learned a lot from the open-source community and I love how collaboration and 
       <br>TypeScript
     </td>
     <tr>
-    <td align="center" width="96">
-      <a href="#mohamednourdine">
-        <img src="./icons/angular-icon.svg" width="45" height="45" alt="Angular JS" />
-      </a>
-      <br>Angular JS
-    </td>
-    <td align="center" width="96">
-      <a href="#mohamednourdine">
-        <img src="./icons/xamarin.svg" width="45" height="45" alt="Xamarin" />
-      </a>
-      <br>Xamarin
-    </td>
     <td align="center" width="96">
       <a href="#mohamednourdine">
         <img src="./icons/flutter.svg" width="45" height="45" alt="Flutter" />
@@ -169,12 +151,6 @@ I learned a lot from the open-source community and I love how collaboration and 
       </a>
       <br>Bootstrap
     </td>
-    <td align="center" width="96">
-      <a href="#mohamednourdine">
-        <img src="./icons/oracle.svg" width="45" height="45" alt="Oracle" />
-      </a>
-      <br>Oracle
-    </td>
     </tr>
   
   </tr>
@@ -184,6 +160,5 @@ I learned a lot from the open-source community and I love how collaboration and 
 
 <!-- links -->
 
-[Fembak Software]: http://fembakyazilim.com/ "Fembak Yazılım"
 [issues page]: https://github.com/mohamednourdine/mohamednourdine/issues "mohamednourdine/issues"
-[linkedin]: https://www.linkedin.com/in/mohamed-nourdine-0970b7122/ "Mohamed Nourdine"
+[linkedin]: https://www.linkedin.com/in/mnourdine/ "Mohamed Nourdine"
