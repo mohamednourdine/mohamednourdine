@@ -22,8 +22,6 @@ My appreciation for the open-source community has provided me with valuable lear
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
-<br>
-
 <h2 align="left" id="mohamednourdine">Favorite Tech</h2>
 
 > Tools, languages, and other things that I feel confortable working with.
