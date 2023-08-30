@@ -15,7 +15,7 @@ My appreciation for the open-source community has provided me with valuable lear
 
 
 
-![Profile views](https://gpvc.arturio.dev/mohamednourdine) [![Linkedin Badge](https://img.shields.io/badge/-mohamednourdine-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mnourdine/)](https://www.linkedin.com/in/mnourdine) [![Github Badge](https://img.shields.io/badge/mohamednourdine-grey?style=flat&logo=github&logoColor=white&link=https://github.com/mohamednourdine/)](https://github.com/mohamednourdine/) 
+[![Linkedin Badge](https://img.shields.io/badge/-mohamednourdine-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mnourdine/)](https://www.linkedin.com/in/mnourdine) [![Github Badge](https://img.shields.io/badge/mohamednourdine-grey?style=flat&logo=github&logoColor=white&link=https://github.com/mohamednourdine/)](https://github.com/mohamednourdine/) 
 [![Twitter Badge](https://img.shields.io/badge/-nourdinetw-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/nourdinetw/)](https://www.twitter.com/nourdinetw/) [![Gmail Badge](https://img.shields.io/badge/-mohamednjikam25@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohamednjikam25@hotmail.com)](mailto:mohamednjikam25@hotmail.com)
 
 <a href="#mohamednourdine-title">
